@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="139408" started-at="2021-06-05T21:23:12 IST" finished-at="2021-06-05T21:25:31 IST">
+    <groups>
+    </groups>
+    <test name="Testcombined" duration-ms="139408" started-at="2021-06-05T21:23:12 IST" finished-at="2021-06-05T21:25:31 IST">
+      <class name="testcase.DeleteLead">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testcase.DeleteLead@10a87b3]" name="preCondition" is-config="true" duration-ms="10790" started-at="2021-06-05T21:24:05 IST" finished-at="2021-06-05T21:24:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="rundelete()[pri:0, instance:testcase.DeleteLead@10a87b3]" name="rundelete" duration-ms="16351" started-at="2021-06-05T21:24:16 IST" finished-at="2021-06-05T21:24:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rundelete -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.DeleteLead@10a87b3]" name="postCondition" is-config="true" duration-ms="462" started-at="2021-06-05T21:24:33 IST" finished-at="2021-06-05T21:24:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.DeleteLead -->
+      <class name="testcase.EditLead">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testcase.EditLead@f7c8c1]" name="preCondition" is-config="true" duration-ms="10745" started-at="2021-06-05T21:23:39 IST" finished-at="2021-06-05T21:23:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runeditlead()[pri:0, instance:testcase.EditLead@f7c8c1]" name="runeditlead" duration-ms="15289" started-at="2021-06-05T21:23:50 IST" finished-at="2021-06-05T21:24:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runeditlead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.EditLead@f7c8c1]" name="postCondition" is-config="true" duration-ms="343" started-at="2021-06-05T21:24:05 IST" finished-at="2021-06-05T21:24:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.EditLead -->
+      <class name="testcase.CreateLead">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testcase.CreateLead@a35978]" name="preCondition" is-config="true" duration-ms="15069" started-at="2021-06-05T21:23:12 IST" finished-at="2021-06-05T21:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runCreateLead()[pri:0, instance:testcase.CreateLead@a35978]" name="runCreateLead" duration-ms="9893" started-at="2021-06-05T21:23:27 IST" finished-at="2021-06-05T21:23:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.CreateLead@a35978]" name="postCondition" is-config="true" duration-ms="2196" started-at="2021-06-05T21:23:37 IST" finished-at="2021-06-05T21:23:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.CreateLead -->
+      <class name="testcase.MergeLead">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testcase.MergeLead@19b92f3]" name="preCondition" is-config="true" duration-ms="9785" started-at="2021-06-05T21:24:33 IST" finished-at="2021-06-05T21:24:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runmergelead()[pri:0, instance:testcase.MergeLead@19b92f3]" name="runmergelead" duration-ms="20613" started-at="2021-06-05T21:24:43 IST" finished-at="2021-06-05T21:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runmergelead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.MergeLead@19b92f3]" name="postCondition" is-config="true" duration-ms="398" started-at="2021-06-05T21:25:04 IST" finished-at="2021-06-05T21:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.MergeLead -->
+      <class name="testcase.DuplicateLead">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:testcase.DuplicateLead@1cd6521]" name="preCondition" is-config="true" duration-ms="12536" started-at="2021-06-05T21:25:04 IST" finished-at="2021-06-05T21:25:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runduplead()[pri:0, instance:testcase.DuplicateLead@1cd6521]" name="runduplead" duration-ms="14560" started-at="2021-06-05T21:25:16 IST" finished-at="2021-06-05T21:25:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runduplead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.DuplicateLead@1cd6521]" name="postCondition" is-config="true" duration-ms="205" started-at="2021-06-05T21:25:31 IST" finished-at="2021-06-05T21:25:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.DuplicateLead -->
+    </test> <!-- Testcombined -->
+  </suite> <!-- Suite -->
+</testng-results>
