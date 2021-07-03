@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite-Verifylogin" duration-ms="14931" started-at="2021-06-19T13:52:29 IST" finished-at="2021-06-19T13:52:44 IST">
+    <groups>
+    </groups>
+    <test name="loginpageobjectmodel" duration-ms="14931" started-at="2021-06-19T13:52:29 IST" finished-at="2021-06-19T13:52:44 IST">
+      <class name="testcases.Verifylogin">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:testcases.Verifylogin@eaafa6]" name="precondition" is-config="true" duration-ms="10325" started-at="2021-06-19T13:52:29 IST" finished-at="2021-06-19T13:52:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="runlogin()[pri:0, instance:testcases.Verifylogin@eaafa6]" name="runlogin" duration-ms="4144" started-at="2021-06-19T13:52:40 IST" finished-at="2021-06-19T13:52:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runlogin -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcases.Verifylogin@eaafa6]" name="postCondition" is-config="true" duration-ms="319" started-at="2021-06-19T13:52:44 IST" finished-at="2021-06-19T13:52:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.Verifylogin -->
+    </test> <!-- loginpageobjectmodel -->
+  </suite> <!-- Suite-Verifylogin -->
+</testng-results>
